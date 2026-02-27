@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6ZLEM\\Desktop\\Oyun Projem\\\u00D6zlem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BAFB84-988B-C7D9-8A79-8966C2E10BCE}|Assembly-CSharp.csproj|c:\\users\\\u00F6zlem\\desktop\\oyun projem\\\u00F6zlem2\\assets\\kardanadam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BAFB84-988B-C7D9-8A79-8966C2E10BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\kardanadam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KardanAdam.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6ZLEM\\Desktop\\Oyun Projem\\\u00D6zlem2\\Assets\\KardanAdam.cs",
+              "RelativeDocumentMoniker": "Assets\\KardanAdam.cs",
+              "ToolTip": "C:\\Users\\\u00D6ZLEM\\Desktop\\Oyun Projem\\\u00D6zlem2\\Assets\\KardanAdam.cs",
+              "RelativeToolTip": "Assets\\KardanAdam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:37:43.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
